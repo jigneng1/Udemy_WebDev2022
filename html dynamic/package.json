@@ -1,0 +1,20 @@
+{
+  "devDependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2"
+  },
+  "dependencies": {
+    "method-override": "^3.0.0",
+    "mongoose": "^6.8.1"
+  },
+  "name": "html-dynamic",
+  "description": "express + ejs + mongoDB + mongoose",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
